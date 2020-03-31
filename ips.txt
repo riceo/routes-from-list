@@ -1,0 +1,17 @@
+104.214.230.139/32 # packages.microsoft.com
+91.189.88.152/32 # archive.ubuntu.com
+91.189.88.142/32 # archive.ubuntu.com
+91.189.88.152/32 # security.ubuntu.com
+91.189.91.39/32 # security.ubuntu.com
+91.189.88.142/32 # security.ubuntu.com
+91.189.91.38/32 # security.ubuntu.com
+100.24.246.89/32 # registry-1.docker.io
+52.202.253.107/32 # registry-1.docker.io
+52.55.198.220/32 # registry-1.docker.io
+52.87.94.70/32 # registry-1.docker.io
+54.152.200.115/32 # registry-1.docker.io
+54.164.50.37/32 # registry-1.docker.io
+54.174.39.59/32 # registry-1.docker.io
+54.210.105.17/32 # registry-1.docker.io
+2.17.152.31/32 # download.oracle.com
+13.107.42.18/32 # marketplace.visualstudio.com
